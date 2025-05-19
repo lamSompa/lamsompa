@@ -11,7 +11,7 @@
 
 ---
 
-I am a **Software Engineering** and **Product Management** major with over two years of experience working on projects in cross-functional teams in Agile environments to develop products that meet team and business requirements. I am also a Certified Professional Scrum Product Owner and Developer.
+I am a **Software Engineer** and **Product Manager** major with over two years of experience working on projects in cross-functional teams in Agile environments to develop products that meet team and business requirements. I am also a Certified Professional Scrum Product Owner and Developer.
 
 ---
 ## 📫 **Contact Me**
@@ -44,34 +44,15 @@ I am a **Software Engineering** and **Product Management** major with over two y
 ---
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
-
-  <!-- Card 1: Total Contributions -->
-  <div style="width: 300px; padding: 20px; background-color: #0d1117; border-radius: 15px; box-shadow: 0 0 15px #1EAEDB; text-align: center;">
-    <h3 style="color: #1EAEDB; margin-bottom: 10px;">Total Contributions</h3>
-    <p style="color: #ffffff; font-size: 1.5rem;">2,889</p>
-    <p style="color: #ffffff; font-size: 0.9rem;">Apr 24, 2021 - Present</p>
-  </div>
-
-  <!-- Card 2: Current Streak -->
-  <div style="width: 300px; padding: 20px; background-color: #0d1117; border-radius: 15px; box-shadow: 0 0 15px #1EAEDB; text-align: center;">
-    <h3 style="color: #1EAEDB; margin-bottom: 10px;">Current Streak</h3>
-    <p style="color: #ffffff; font-size: 1.5rem;">0</p>
-    <p style="color: #ffffff; font-size: 0.9rem;">May 19</p>
-  </div>
-
-  <!-- Card 3: Longest Streak -->
-  <div style="width: 300px; padding: 20px; background-color: #0d1117; border-radius: 15px; box-shadow: 0 0 15px #1EAEDB; text-align: center;">
-    <h3 style="color: #1EAEDB; margin-bottom: 10px;">Longest Streak</h3>
-    <p style="color: #ffffff; font-size: 1.5rem;">105</p>
-    <p style="color: #ffffff; font-size: 0.9rem;">Sep 28, 2022 - Jan 10, 2023</p>
-  </div>
-
-  <!-- Card 4: Most Used Language -->
-  <div style="width: 300px; padding: 20px; background-color: #0d1117; border-radius: 15px; box-shadow: 0 0 15px #1EAEDB; text-align: center;">
-    <h3 style="color: #1EAEDB; margin-bottom: 10px;">Most Used Language</h3>
-    <p style="color: #ffffff; font-size: 1.5rem;">Python</p>
-  </div>
+<div align="center">
+  
+  <!-- Row 1 -->
+  <img src="https://raw.githubusercontent.com/lamSompa/lamsompa/master/profile-summary-card-output/2077/1-repos-per-language.svg" alt="Top Languages by Repo" width="400" />
+  <img src="https://raw.githubusercontent.com/lamSompa/lamsompa/master/profile-summary-card-output/2077/2-most-commit-language.svg" alt="Top Languages by Commit" width="400" />
+  
+  <!-- Row 2 -->
+  <img src="https://raw.githubusercontent.com/lamSompa/lamsompa/master/profile-summary-card-output/2077/3-stats.svg" alt="GitHub Stats" width="400" />
+  <img src="https://raw.githubusercontent.com/lamSompa/lamsompa/master/profile-summary-card-output/2077/4-productive-time.svg" alt="Commit Activity" width="400" />
 
 </div>
 
