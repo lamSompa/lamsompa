@@ -46,28 +46,31 @@ I am a **Software Engineering** and **Product Management** major with over two y
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
 
-  <!-- Card 1: Total Commits -->
+  <!-- Card 1: Total Contributions -->
   <div style="width: 300px; padding: 20px; background-color: #0d1117; border-radius: 15px; box-shadow: 0 0 15px #1EAEDB; text-align: center;">
-    <h3 style="color: #1EAEDB;">Total Commits</h3>
-    <p style="color: #ffffff; font-size: 1.2rem;">5,432</p>
+    <h3 style="color: #1EAEDB; margin-bottom: 10px;">Total Contributions</h3>
+    <p style="color: #ffffff; font-size: 1.5rem; margin: 10px 0;">2,889</p>
+    <p style="color: #ffffff; font-size: 0.9rem;">Apr 24, 2021 - Present</p>
   </div>
 
-  <!-- Card 2: Total PRs -->
+  <!-- Card 2: Current Streak -->
   <div style="width: 300px; padding: 20px; background-color: #0d1117; border-radius: 15px; box-shadow: 0 0 15px #1EAEDB; text-align: center;">
-    <h3 style="color: #1EAEDB;">Total PRs</h3>
-    <p style="color: #ffffff; font-size: 1.2rem;">342</p>
+    <h3 style="color: #1EAEDB; margin-bottom: 10px;">Current Streak</h3>
+    <p style="color: #ffffff; font-size: 1.5rem; margin: 10px 0;">0</p>
+    <p style="color: #ffffff; font-size: 0.9rem;">May 19</p>
   </div>
 
-  <!-- Card 3: Total Issues -->
+  <!-- Card 3: Longest Streak -->
   <div style="width: 300px; padding: 20px; background-color: #0d1117; border-radius: 15px; box-shadow: 0 0 15px #1EAEDB; text-align: center;">
-    <h3 style="color: #1EAEDB;">Total Issues</h3>
-    <p style="color: #ffffff; font-size: 1.2rem;">128</p>
+    <h3 style="color: #1EAEDB; margin-bottom: 10px;">Longest Streak</h3>
+    <p style="color: #ffffff; font-size: 1.5rem; margin: 10px 0;">105</p>
+    <p style="color: #ffffff; font-size: 0.9rem;">Sep 28, 2022 - Jan 10, 2023</p>
   </div>
 
   <!-- Card 4: Most Used Language -->
   <div style="width: 300px; padding: 20px; background-color: #0d1117; border-radius: 15px; box-shadow: 0 0 15px #1EAEDB; text-align: center;">
-    <h3 style="color: #1EAEDB;">Most Used Language</h3>
-    <p style="color: #ffffff; font-size: 1.2rem;">Python</p>
+    <h3 style="color: #1EAEDB; margin-bottom: 10px;">Most Used Language</h3>
+    <p style="color: #ffffff; font-size: 1.5rem; margin: 10px 0;">Python</p>
   </div>
 
 </div>
