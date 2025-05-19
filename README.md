@@ -11,7 +11,7 @@
 
 ---
 
-I am a **Software Engineering** and **Product Management** major with over two years of experience working on projects in cross-functional teams in Agile environments to develop products that meet team and business requirements.
+I am a **Software Engineering** and **Product Management** major with over two years of experience working on projects in cross-functional teams in Agile environments to develop products that meet team and business requirements. I am also a Certified Professional Scrum Product Owner and Developer.
 
 ---
 ## 📫 **Contact Me**
@@ -42,7 +42,37 @@ I am a **Software Engineering** and **Product Management** major with over two y
 </div>
 
 ---
+## <span style="color: #1EAEDB;">📊 GitHub Stats</span>
 
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
+
+  <!-- Card 1: Total Commits -->
+  <div style="width: 300px; padding: 20px; background-color: #0d1117; border-radius: 15px; box-shadow: 0 0 15px #1EAEDB; text-align: center;">
+    <h3 style="color: #1EAEDB;">Total Commits</h3>
+    <p style="color: #ffffff; font-size: 1.2rem;">5,432</p>
+  </div>
+
+  <!-- Card 2: Total PRs -->
+  <div style="width: 300px; padding: 20px; background-color: #0d1117; border-radius: 15px; box-shadow: 0 0 15px #1EAEDB; text-align: center;">
+    <h3 style="color: #1EAEDB;">Total PRs</h3>
+    <p style="color: #ffffff; font-size: 1.2rem;">342</p>
+  </div>
+
+  <!-- Card 3: Total Issues -->
+  <div style="width: 300px; padding: 20px; background-color: #0d1117; border-radius: 15px; box-shadow: 0 0 15px #1EAEDB; text-align: center;">
+    <h3 style="color: #1EAEDB;">Total Issues</h3>
+    <p style="color: #ffffff; font-size: 1.2rem;">128</p>
+  </div>
+
+  <!-- Card 4: Most Used Language -->
+  <div style="width: 300px; padding: 20px; background-color: #0d1117; border-radius: 15px; box-shadow: 0 0 15px #1EAEDB; text-align: center;">
+    <h3 style="color: #1EAEDB;">Most Used Language</h3>
+    <p style="color: #ffffff; font-size: 1.2rem;">Python</p>
+  </div>
+
+</div>
+
+---
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> **Technical Skills**
 
 <p align="center">
