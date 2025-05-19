@@ -42,21 +42,6 @@ I am a **Software Engineer** and **Product Manager** major with over two years o
 </div>
 
 ---
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  <!-- Row 1 -->
-  <img src="https://raw.githubusercontent.com/lamSompa/lamsompa/master/profile-summary-card-output/2077/1-repos-per-language.svg" alt="Top Languages by Repo" width="400" />
-  <img src="https://raw.githubusercontent.com/lamSompa/lamsompa/master/profile-summary-card-output/2077/2-most-commit-language.svg" alt="Top Languages by Commit" width="400" />
-  
-  <!-- Row 2 -->
-  <img src="https://raw.githubusercontent.com/lamSompa/lamsompa/master/profile-summary-card-output/2077/3-stats.svg" alt="GitHub Stats" width="400" />
-  <img src="https://raw.githubusercontent.com/lamSompa/lamsompa/master/profile-summary-card-output/2077/4-productive-time.svg" alt="Commit Activity" width="400" />
-
-</div>
-
----
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> **Technical Skills**
 
 <p align="center">
