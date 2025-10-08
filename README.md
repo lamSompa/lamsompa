@@ -11,7 +11,7 @@
 
 ---
 
-I am a **Software Engineer** and **Product Manager** major with over two years of experience working on projects in cross-functional teams in Agile environments to develop products that meet team and business requirements. I am also a Certified Professional Scrum Product Owner and Developer.
+I am a **Software Engineering** and **Product Management** major with close on three (3) years of experience working on projects in cross-functional teams in Agile environments to develop products that meet team and business requirements. I am also a Certified Professional Scrum Product Owner and Developer.
 
 ---
 ## 📫 **Contact Me**
