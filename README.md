@@ -28,12 +28,6 @@ I am a **Software Engineer** and **Product Manager** major with over two years o
          style="box-shadow: 0 0 15px #1EAEDB; transform: scale(1.5);" />
   </a>
   
-  <a href="https://instagram.com/ichbinsompa" style="text-decoration: none; margin: 10px;">
-    <img src="https://img.shields.io/badge/Instagram-1EAEDB?style=for-the-badge&logo=instagram&logoColor=white" 
-         alt="Instagram" 
-         style="box-shadow: 0 0 15px #1EAEDB; transform: scale(1.5);" />
-  </a>
-  
   <a href="https://calendly.com/abeikusompa-nyarkolartey-code" style="text-decoration: none; margin: 10px;">
     <img src="https://img.shields.io/badge/Schedule_Meeting-1EAEDB?style=for-the-badge&logo=google-calendar&logoColor=white" 
          alt="Calendly" 
